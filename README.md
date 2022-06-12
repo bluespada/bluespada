@@ -17,12 +17,16 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </p>
  <samp>
-  
-  <br>
-   🔭 currently on full time jobs on multi company based on bali.<br>
-   🌁 based in Indonesia <br>
-   🛸 playing : Genshin Impact, Call of Duty, God of War, Grand Thief Auto<br>
+   🔭 I’m currently working on Astina Group<br>
+   📫 How to reach me: pentingmain@gmail.com<br>
+   🌁 Based in Indonesia <br>
+   🛸 Game : Genshin Impact, Call of Duty, God of War, Grand Thief Auto<br><br><br>
+   🎧 Listen to :
 </samp>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cowretwc&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <!--
 **bluespada/bluespada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
