@@ -1,4 +1,4 @@
-<samp> ꧁ hi! ꧂<br>
+<img align="left" height="150" src="https://raw.githubusercontent.com/bluespada/bluespada/main/albedo.gif" alt="Albedo Main" /><samp> ꧁ hi! ꧂<br>
 
 <!--
 **bluespada/bluespada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
