@@ -18,9 +18,7 @@
 </p>
  <samp>
    🔭 I’m currently working on Astina Group<br>
-   📫 How to reach me: pentingmain@gmail.com<br>
    🌁 Based in Indonesia <br>
-   🛸 Game : Genshin Impact, Call of Duty, God of War, Grand Thief Auto<br><br><br>
    🎧 Listen to :
 </samp>
 
