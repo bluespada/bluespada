@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" height="150" src="https://raw.githubusercontent.com/bluespada/bluespada/main/xiao.gif" alt="Xiao Main" />
+  <img align="center" height="150" src="https://raw.githubusercontent.com/bluespada/bluespada/main/albedo.gif" alt="Xiao Main" />
 </div>
 <br>
 <br>
