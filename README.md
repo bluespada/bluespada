@@ -3,31 +3,32 @@
 </div>
 <br>
 <br>
+<h3 align="center">⚡ Empowered By ⚡</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%237377AD.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-%23D164A2.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/gofiber-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/actix-%23000000.svg?&style=for-the-badge&logo=actix&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring%20boot-%2376BB1E.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%23087A9F.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/vue-%233FB27F.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/flutter-%232EB2EE.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/codeigniter-%23E74222.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23F72C1F.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/odoo-%239D568A.svg?&style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092D1F.svg?&style=for-the-badge&logo=django&logoColor=white" />
+  
 </p>
- <samp>
-   🔭 I’m currently working on Astina Group<br>
-   🌁 Based in Indonesia <br>
-   🎧 Listen to :
-</samp>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cowretwc&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cowretwc&redirect=true)
-
 
 <!--
 **bluespada/bluespada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
