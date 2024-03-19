@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" height="150" src="https://i.pinimg.com/originals/7f/fa/4d/7ffa4d07831ee3f29c0bad149aee0f04.gif" alt="Xiao Main" />
 </div>
-<!--
+
 <br>
 <br>
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/django-%23092D1F.svg?&style=for-the-badge&logo=django&logoColor=white" />
   
 </p>
--->
+
 <!--
 **bluespada/bluespada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
