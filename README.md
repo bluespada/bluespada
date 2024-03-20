@@ -38,6 +38,8 @@
 <br>
 <br>
 <h3 align="center">☠️ Skill Stat ☠️</h3>
+
+[![Bluespada Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluespada&show_icons=true&bg_color=00000000)](https://github.com/bluespada)
 ![Bluespada GitHub stats](https://github-readme-stats.vercel.app/api?username=bluespada&show_icons=true&bg_color=00000000)
 
 <!--
