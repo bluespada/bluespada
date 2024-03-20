@@ -36,12 +36,11 @@
   
 </p>
 <br>
-<br>
-<h3 align="center">☠️ Skill Stat ☠️</h3>
-
+<h3 align="center">☠️ Skill Status ☠️</h3>
+<div align="center">
+  
 [![Bluespada Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluespada&show_icons=true&bg_color=00000000)](https://github.com/bluespada)
-![Bluespada GitHub stats](https://github-readme-stats.vercel.app/api?username=bluespada&show_icons=true&bg_color=00000000)
-
+</div>
 <!--
 **bluespada/bluespada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
