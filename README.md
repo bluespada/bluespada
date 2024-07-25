@@ -36,6 +36,20 @@
   
 </p>
 <br>
+<h3 align="center">🌪️ External Power with 🌪️</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/vim-%23009330.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-%231C61E7.svg?&style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/slack-%23D81D56.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/obsidian-%23491FA3.svg?&style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/notion-%23FFFFFF.svg?&style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/arch-%23178FCA.svg?&style=for-the-badge&logo=archlinux&logoColor=white" />
+  <!--
+  <img src="https://img.shields.io/badge/debian-%23D0064F.svg?&style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/fedora-%23479DD9.svg?&style=for-the-badge&logo=fedora&logoColor=white" />
+  -->
+</p>
+<br>
 <h3 align="center">☠️ Skill Status ☠️</h3>
 <div align="center" class="container">
 
