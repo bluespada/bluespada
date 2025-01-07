@@ -1,4 +1,5 @@
 <img align="center" width="100%" src="https://i.pinimg.com/originals/7f/fa/4d/7ffa4d07831ee3f29c0bad149aee0f04.gif" alt="Xiao Main" />
+<img width="100%" src="https://wakatime.com/share/@405ec47e-74da-4998-b943-66c2f17675a7/661a9620-810d-4f01-82b8-e8052d03bb4e.png" />
 <!--
 <br>
 <br>
