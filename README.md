@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="40%" src="https://i.pinimg.com/originals/7f/fa/4d/7ffa4d07831ee3f29c0bad149aee0f04.gif" alt="Xiao Main" />
+  <img width="60%" src="/asta.gif" alt="Asta Main" />
 </div>
 
 # 💫 About Me
