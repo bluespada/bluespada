@@ -16,13 +16,13 @@ Everything I know comes from hands on experience building projects, experimentin
 - **AI & ML**: Currently on the way to exploring and learning AI & ML.
 
 ## 🎯 My Approach
-For me programming isn't just about writing or copying code it's an art. A programmer is like an artist, crafting solutions to problems encountered throughout life's journey. Every line of code is a brushstroke, each function a composition, coming together to create something meaningful.
+For me programming isn't just about writing or copying code, it's an art. A programmer is like an artist, crafting solutions to problems encountered throughout life's journey. Every line of code is a brushstroke, each function a composition, coming together to create something meaningful.
 
 I believe that true growth in programming comes from constant learning and adaptation. There's no final destination only endless exploration until the end. It demands perseverance, an unbreakable curiosity, and the willingness to embrace failure as part of the process. But that's where the excitement lies. Every challenge solved opens doors to new possibilities, new knowledge, and new ways to think.
 
 ## 🌟 Philoshopy
 
-One of my biggest inspirations comes from a character I admire—Asta from Black Clover. He once said, "My magic is never giving up!" This quote resonates deeply with me because it reflects how I approach both programming and life. In the tech world, challenges and setbacks are inevitable, but like Asta, I believe the true strength comes from never giving up. No matter how many times we fail, as long as we keep pushing forward, we can overcome any obstacle.
+One of my biggest inspirations comes from a character I admire Asta from Black Clover. He once said, "My magic is never giving up!" This quote resonates deeply with me because it reflects how I approach both programming and life. In the tech world, challenges and setbacks are inevitable, but like Asta, I believe the true strength comes from never giving up. No matter how many times we fail, as long as we keep pushing forward, we can overcome any obstacle.
 
 ## 💻 Favorite Tech Stack
 ### 🧩 Framework & Lib
