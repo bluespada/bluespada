@@ -10,22 +10,22 @@ I like building things, solving real problems, and always looking for ways to im
 I never really had a formal background in Computer Science, but that never stopped me from learning.
 Everything I know comes from hands on experience building projects, experimenting with different technologies, and figuring things out along the way.
 
-## 🛠 What I Do
+### 🛠 What I Do
 - **Full-Stack Developer**: Web, Mobile, Desktop Application.
 - **Infrastructure & DevOps**: CI/CD and Automation.
 - **AI & ML**: Currently on the way to exploring and learning AI & ML.
 
-## 🎯 My Approach
+### 🎯 My Approach
 For me programming isn't just about writing or copying code, it's an art. A programmer is like an artist, crafting solutions to problems encountered throughout life's journey. Every line of code is a brushstroke, each function a composition, coming together to create something meaningful.
 
 I believe that true growth in programming comes from constant learning and adaptation. There's no final destination only endless exploration until the end. It demands perseverance, an unbreakable curiosity, and the willingness to embrace failure as part of the process. But that's where the excitement lies. Every challenge solved opens doors to new possibilities, new knowledge, and new ways to think.
 
-## 🌟 Philoshopy
+### 🌟 Philosophy
 
 One of my biggest inspirations comes from a character I admire Asta from Black Clover. He once said, "My magic is never giving up!" This quote resonates deeply with me because it reflects how I approach both programming and life. In the tech world, challenges and setbacks are inevitable, but like Asta, I believe the true strength comes from never giving up. No matter how many times we fail, as long as we keep pushing forward, we can overcome any obstacle.
 
-## 💻 Favorite Tech Stack
-### 🧩 Framework & Lib
+### 💻 Favorite Tech Stack
+#### 🧩 Framework & Lib
 <div class="container">
   <img src="https://img.shields.io/badge/gin-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/fasthttp-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
@@ -41,7 +41,7 @@ One of my biggest inspirations comes from a character I admire Asta from Black C
   <img src="https://img.shields.io/badge/vue-%233FB27F.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white" />
 </div>
 
-### 🧩 Programming Languages
+#### 🧩 Programming Languages
 <div class="container">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -57,7 +57,7 @@ One of my biggest inspirations comes from a character I admire Asta from Black C
   <img src="https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"/>
 </div>
 
-### 🧩 Software & Tools
+#### 🧩 Software & Tools
 <div class="container">
   <img src="https://img.shields.io/badge/vim-%23009330.svg?&style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/jira-%231C61E7.svg?&style=for-the-badge&logo=jira&logoColor=white" />
